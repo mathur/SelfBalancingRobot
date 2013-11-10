@@ -160,11 +160,3 @@ void loop()
     lastMilli = curMilli;
   }
 }
-
-
-
-
-
-
-
-
